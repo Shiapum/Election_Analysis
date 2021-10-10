@@ -9,9 +9,9 @@ Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 -------------------------
-Largest Conunty Turnout: Denver
-Largest County Vote Count: 306,055
-Largest County Percentage: 82.8%
+Highest County Turnout: Denver
+Highest County Vote Count: 306,055
+Highest County Percentage: 82.8%
 -------------------------
 
 Candidate votes:
