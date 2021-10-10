@@ -1,5 +1,5 @@
-Counties in the Election
+Total votes in the Election
 ------------------------
-Arapahoe
-Denver
-Jefferson
+Total votes = 369711
+The candidates are the following:
+Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane
